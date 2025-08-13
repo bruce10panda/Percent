@@ -7,3 +7,6 @@ A design for an app that generates outfits based on your wardrobe
 
 # try it here
 [Figma Community link](https://www.figma.com/community/file/1534220225999149692)
+
+# Our Discord server
+[Discord](http://discord.gg/ZSyGNfYBw8)
